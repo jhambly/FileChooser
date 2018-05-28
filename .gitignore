@@ -1,0 +1,40 @@
+# Mostly stolen from https://github.com/github/gitignore
+
+# Eclipse
+# https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore (with many modifications)
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.externalToolBuilders/
+RemoteSystemsTempFiles/
+
+# gradle
+# https://github.com/github/gitignore/blob/master/Gradle.gitignore
+.gradle
+build/
+gradle-app.setting
+
+# maven
+# https://github.com/github/gitignore/blob/master/Maven.gitignore
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+ivls.properties
+.repository/
+
+# IDEA
+# https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore (with many modifications)
+.idea/
+*.iml
+out/
+merge/
